@@ -1,3 +1,16 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On RewriteBase / RewriteCond %{REQUEST_URI} !/public RewriteRule ^(.*)$ public/$1
 </IfModule>
+
+
+
+
+mysql://
+
+b2e7a3e79a9559:26067c96
+
+@us-cdbr-east-06.cleardb.net
+
+/heroku_59176c158bc1e8d
+
+?reconnect=true
