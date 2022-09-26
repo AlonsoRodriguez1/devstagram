@@ -5,12 +5,5 @@
 
 
 
-mysql://
-
-b2e7a3e79a9559:26067c96
-
-@us-cdbr-east-06.cleardb.net
-
-/heroku_59176c158bc1e8d
-
-?reconnect=true
+mysql:// b2e7a3e79a9559:26067c96 @us-cdbr-east-06.cleardb.net /heroku_59176c158bc1e8d ?reconnect=true APP_NAME=Laravel APP_ENV=local APP_KEY=base64:X1Xyg3P0X5/GCh+/HlLYNpfPDXnnIv+YGDyh6SLodM8= APP_DEBUG=true APP_URL=https://mighty-headland-86635.herokuapp.com/
+DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=devstagram DB_USERNAME=sail DB_PASSWORD=password
